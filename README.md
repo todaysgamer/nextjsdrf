@@ -23,7 +23,7 @@ This repository is public for description only.
 **Source code access is private.**
 
 **Price:** `$50`  
-**Payment Methods:** PayPal, Paytm
+**Payment Methods:** PayPal(https://www.paypal.com/paypalme/todaysgamer), Paytm
 
 To receive access:
 
