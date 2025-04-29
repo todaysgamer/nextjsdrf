@@ -32,3 +32,26 @@ To receive access:
 
 #Get in Touch
 myfinancetech@gmail.com
+
+
+
+Access will be granted within 24 hours after verification.
+
+---
+
+## ⚠️ License & Usage
+
+- You may use this code for **personal or commercial** use.
+- **Reselling or redistribution** is strictly prohibited.
+
+---
+
+## ✉️ Contact
+
+For questions, customization, or bulk purchase:  
+**Email:** `myfinancetech@gmail.com`
+
+---
+
+Thank you for your interest!
+
